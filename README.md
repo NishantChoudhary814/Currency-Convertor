@@ -53,8 +53,5 @@ We welcome contributions to the Currency Converter App! To contribute, please fo
     ```
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
-For any questions or feedback, please contact us at support@currencyconvertor.com.
+For any questions or feedback, please contact us at nishantchoudhary814@gmail.com.
