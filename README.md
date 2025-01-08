@@ -7,7 +7,7 @@ The Currency Converter App is a simple and efficient tool designed to help users
 - **Real-time Exchange Rates**: Get the latest exchange rates for various currencies.
 - **Multiple Currency Support**: Convert between a wide range of currencies.
 - **User-friendly Interface**: Easy to use with a clean and intuitive design.
-- **Offline Mode**: Access previously fetched exchange rates even without an internet connection.
+- **Robust and Fully Optimized Project**: using Core React and Tailwind CSS.
 
 ## Installation
 To install and run the Currency Converter App, follow these steps:
